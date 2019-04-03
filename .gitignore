@@ -60,3 +60,9 @@ vfs-core.dll
 vfs-impl-server.dll
 voip-server-mumble.dll
 VRP.cmd
+cache/files/fivem-map-skater/resource.rpf
+cache/files/fivem-map-skater/resource.rpf.db
+cache/files/fivem-map-skater/resource.sfl
+cache/files/fivem-map-skater/resource.sfl.db
+libmono-btls-shared.dll
+mono-2.0-dac-sgen.dll
