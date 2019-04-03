@@ -2,9 +2,7 @@
     <img src="https://i.imgur.com/loal9xU.jpg">
 </p>
 
-## About AvaIre
-
-AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
+## About this project
 
 ## Contributing
 
@@ -12,7 +10,7 @@ Thank you for considering contributing to VortexLife.
 
 <p align="center">
   <a href="https://discord.gg/gt2FWER"><img src="https://discordapp.com/api/guilds/284083636368834561/widget.png?style=banner2" alt="Discord server"></a>
-  <br>AvaIre support server: https://discord.gg/gt2FWER
+  <br>VortexLife Main Server: https://discord.gg/rVVEdFm
 </p>
 
 ---
