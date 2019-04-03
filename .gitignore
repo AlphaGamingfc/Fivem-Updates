@@ -43,7 +43,6 @@ net-tcp-server.dll
 nng.dll
 node.dll
 profiles.dll
-README.md
 run.cmd
 scrbind-base.dll
 scripting-server.dll
