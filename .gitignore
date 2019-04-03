@@ -232,3 +232,8 @@ cache/files/banking/resource.sfl
 cache/files/banking/resource.rpf.db
 cache/files/banking/resource.rpf
 Start_Server.cmd
+run.cmd
+CoreRT.dll
+ETWProviders64.dll
+FXServer.exe
+MonoPosixHelper.dll
