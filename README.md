@@ -12,7 +12,7 @@
 
 
 ## Website
-Here is a link to our website:  https://iharsh234.github.io/WebApp/
+Here is a link to our website:  https://vortexrp.co.uk
 
 ### Development
 Want to contribute? Great!
@@ -30,7 +30,16 @@ To fix a bug or enhance an existing module, follow these steps:
 ### Bug / Feature Request
 
 If you find a bug, kindly open an issue [here](https://github.com/MrAdapt/Fivem-Updates/issues/new) .
-
+Please use the correct format when reportinbg bugs.
 
 ## To-do
-- Awaiting Information
+- Improve the stability and optimization of the server
+- Import the cad / admin system to the website
+- Create Legal/Illegal Jobs.
+
+## Important Completed List
+- British vehicles in store and ai vehicles
+- British Peds for civs and emergency services
+- Admin System with web panel control
+- Cad system with web panel control
+- In game tablet with functions related to gameplay
