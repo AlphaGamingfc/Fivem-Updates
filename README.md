@@ -9,8 +9,8 @@
 Thank you for considering contributing to VortexLife.
 
 <p align="center">
-  <a href="https://discord.gg/gt2FWER"><img src="https://discordapp.com/api/guilds/543920224563626001/widget.png?style=banner2" alt="Discord server!"></a>
-  <br>VortexLife Main Server: https://discord.gg/rVVEdFm
+  <a href="https://discord.gg/rVVEdFm"><img src="https://discordapp.com/api/guilds/257454984013152256/widget.png?style=banner2" alt="Discord server"></a>
+  <br>VortexLife Discord Server: https://discord.gg/rVVEdFm
 </p>
 
 ---
