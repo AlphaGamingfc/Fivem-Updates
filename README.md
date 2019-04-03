@@ -29,8 +29,8 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug, kindly open an issue [here](https://github.com/MrAdapt/Fivem-Updates/issues/new) .
-Please use the correct format when reportinbg bugs.
+- If you find a bug, kindly open an issue [here](https://github.com/MrAdapt/Fivem-Updates/issues/new) .
+- Please use the correct format when reporting bugs.
 
 ## To-do
 - Improve the stability and optimization of the server
